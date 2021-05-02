@@ -11,9 +11,9 @@ Computer technician at IFRN - Campus Caicó, I love web development mainly front
 - 🤖 Every day consuming on technology.
 
 ## Technology History
-> <img src="icons/html.png" width="25px">
-> <img src="icons/css.png" width="25px">
-> <img src="icons/js.png" width="25px">
+> <img src="icons/html.svg" width="25px">
+> <img src="icons/css.svg" width="25px">
+> <img src="icons/js.svg" width="25px">
 <!-- > <img src="icons/php.png" width="25px"> -->
 
 ## Switch to another file
