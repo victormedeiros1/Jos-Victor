@@ -11,15 +11,15 @@ Computer technician at IFRN - Campus Caicó, I love web development mainly front
 - 🤖 Every day consuming on technology.
 
 ## Technology History
-> <img src="icons/html5.svg" fill="#FC490B" width="25px">
-> <img src="icons/css3.svg" fill="#1572B6" width="25px">
-> <img src="icons/javascript.svg" fill="#F7DF1E" width="25px">
-> <img src="icons/bootstrap.svg" fill="#7952B3" width="25px">
-> <img src="icons/php.svg" fill="#777BB4" width="25px">
-> <img src="icons/laravel.svg" fill="#FF2D20" width="25px">
-> <img src="icons/wordpress.svg" fill="#21759B" width="25px">
-> <img src="icons/git.svg" fill="#F05032" width="25px">
-> <img src="icons/figma.svg" fill="#0DBD8B" width="25px">
+> <img src="icons/html5.svg"width="25px">
+> <img src="icons/css3.svg" width="25px">
+> <img src="icons/javascript.svg" width="25px">
+> <img src="icons/bootstrap.svg" width="25px">
+> <img src="icons/php.svg" width="25px">
+> <img src="icons/laravel.svg"width="25px">
+> <img src="icons/wordpress.svg" width="25px">
+> <img src="icons/git.svg" width="25px">
+> <img src="icons/figma.svg" width="25px">
 
 ## Switch to another file
 
