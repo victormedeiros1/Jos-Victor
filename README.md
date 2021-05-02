@@ -1,13 +1,6 @@
-<<<<<<< HEAD
 # Hello, I'm José Victor
 > <img title="José Victor" src="icons/profile.png" width="250px">
 <br>
-=======
-<div class="text-center">
-  <img src="icons/profile.png" width="250px">
-  <h1>Hello, I'm José Victor :v:</h1>
-</div>
->>>>>>> 4c25b82aa11ce89e5afa442a7c12495475fdc44f
 Computer technician at IFRN - Campus Caicó, I love web development mainly front-end and I'm already moving towards Full Stack.
 
 
