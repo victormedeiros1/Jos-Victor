@@ -1,5 +1,7 @@
-<img src="icons/profile.png" width="250px">
-# Hello, I'm José Victor :v:
+<div class="text-center">
+  <img src="icons/profile.png" width="250px">
+  <h1>Hello, I'm José Victor :v:</h1>
+</div>
 Computer technician at IFRN - Campus Caicó, I love web development mainly front-end and I'm already moving towards Full Stack.
 
 
