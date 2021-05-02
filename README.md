@@ -1,5 +1,6 @@
 # Hello, I'm José Victor
-<img src="icons/profile.png>
+> <img title="José Victor" src="icons/profile.png" width="250px">
+<br>
 Computer technician at IFRN - Campus Caicó, I love web development mainly front-end and I'm already moving towards Full Stack.
 
 
