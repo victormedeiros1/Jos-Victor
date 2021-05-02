@@ -19,7 +19,7 @@ Computer technician at IFRN - Campus Caicó, I love web development mainly front
 > <img title="Bootstrap" src="icons/bootstrap.svg">
 > <img title="PHP" src="icons/php.svg">
 > <img title="Laravel" src="icons/laravel.svg">
-> <img title="MySQL" src="icons/MySQL.svg">
+> <img title="MySQL" src="icons/mysql.svg">
 > <img title="WordPress" src="icons/wordpress.svg">
 > <img title="Git" src="icons/git.svg">
 > <img title="Figma" src="icons/figma.svg">
