@@ -1,5 +1,5 @@
-# Hello, I'm José Victor
-<img src="icons/profile.png>
+# Hello, I'm José Victor This is my professional portfolio.
+<img src="icons/profile.png">
 Computer technician at IFRN - Campus Caicó, I love web development mainly front-end and I'm already moving towards Full Stack.
 
 
@@ -11,7 +11,7 @@ Computer technician at IFRN - Campus Caicó, I love web development mainly front
 - 🤖 Every day consuming on technology.
 
 ## Technology History
-> <img title="HTML5" src="icons/html5.svg" >
+> <img title="HTML5" src="icons/html5.svg">
 > <img title="CSS3" src="icons/css3.svg">
 > <img title="JavaScript" src="icons/javascript.svg">
 > <img title="Bootstrap" src="icons/bootstrap.svg">
