@@ -1,8 +1,3 @@
-<style>
-	img{
-		width: 25px;
-	}
-</style>
 # Hello, I'm José Victor
 
 Computer technician at IFRN - Campus Caicó, I love web development mainly front-end and I'm already moving towards Full Stack.
@@ -16,10 +11,10 @@ Computer technician at IFRN - Campus Caicó, I love web development mainly front
 - 🤖 Every day consuming on technology.
 
 ## Technology History
-> <img src="icons/html.svg">
-> <img src="icons/css.svg">
-> <img src="icons/js.svg">
-> <img src="icons/php.svg">
+> <img src="icons/html.svg" width="25px">
+> <img src="icons/css.svg" width="25px">
+> <img src="icons/js.svg" width="25px">
+> <img src="icons/php.svg" width="25px">
 
 ## Switch to another file
 
