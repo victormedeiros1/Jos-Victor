@@ -33,8 +33,8 @@ Computer technician at IFRN - Campus Caicó, I love web development mainly front
 
 ## Talk to me
 
-> - Portfolio
-> - LinkedIn
-> - Instagram
-> - Gmail
-> - StackOverflow
+> - <a href="#">Portfolio</a>
+> - <a href="#">LinkedIn</a>
+> - <a href="#">Instagram</a>
+> - <a href="#">Gmail</a>
+> - <a href="#">StackOverflow</a>
