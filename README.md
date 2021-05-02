@@ -11,7 +11,11 @@ Computer technician at IFRN - Campus Caicó, I love web development mainly front
 - 🤖 Every day consuming on technology.
 
 ## Technology History
-- <img src="icons/html5.svg" width="25px">
+> <img src="icons/html5.svg" width="25px">
+> <img src="icons/css.svg" width="25px">
+> <img src="icons/js.svg" width="25px">
+> <img src="icons/php.svg" width="25px">
+
 ## Switch to another file
 
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
