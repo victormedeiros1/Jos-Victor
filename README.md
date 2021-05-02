@@ -24,9 +24,9 @@ Computer technician at IFRN - Campus Caicó, I love web development mainly front
 
 ## Talk to me
 
-> - <a href="https://victormedeiros1.github.io/Portfolio/">Portfolio</a>
-> - <a href="https://www.linkedin.com/in/jos%C3%A9-victor-dev/">LinkedIn</a>
-> - <a href="https://t.me/VictorMedeirosDev">Telegram</a>
-> - <a href="https://www.instagram.com/victor_mdrss/">Instagram</a>
-> - <a href="mailto:josevictordev@gmail.com?subject=Hello">Gmail</a>
-> - <a href="https://stackoverflow.com/users/15435009/victor-medeiros">StackOverflow</a>
+- <a href="https://victormedeiros1.github.io/Portfolio/">Portfolio</a>
+- <a href="https://www.linkedin.com/in/jos%C3%A9-victor-dev/">LinkedIn</a>
+- <a href="https://t.me/VictorMedeirosDev">Telegram</a>
+- <a href="https://www.instagram.com/victor_mdrss/">Instagram</a>
+- <a href="mailto:josevictordev@gmail.com?subject=Hello">Gmail</a>
+- <a href="https://stackoverflow.com/users/15435009/victor-medeiros">StackOverflow</a>
