@@ -11,10 +11,15 @@ Computer technician at IFRN - Campus Caicó, I love web development mainly front
 - 🤖 Every day consuming on technology.
 
 ## Technology History
-> <img src="icons/html.svg" width="25px">
-> <img src="icons/css.svg" width="25px">
-> <img src="icons/js.svg" width="25px">
+> <img src="icons/html5.svg" width="25px">
+> <img src="icons/css3.svg" width="25px">
+> <img src="icons/javascript.svg" width="25px">
+> <img src="icons/bootstrap.svg" width="25px">
 > <img src="icons/php.svg" width="25px">
+> <img src="icons/laravel.svg" width="25px">
+> <img src="icons/wordpress.svg" width="25px">
+> <img src="icons/git.svg" width="25px">
+> <img src="icons/figma.svg" width="25px">
 
 ## Switch to another file
 
