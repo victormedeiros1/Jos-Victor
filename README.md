@@ -1,5 +1,5 @@
 # Hello, I'm José Victor
-Computer technician at IFRN - Campus Caicó, I love web development mainly front-end and I'm already moving towards Full Stack.
+Computer technician at IFRN - Campus Caicó, I love web development mainly front-end.
 
 
 ## About me
@@ -14,8 +14,6 @@ Computer technician at IFRN - Campus Caicó, I love web development mainly front
 > <img title="CSS3" src="icons/css3.svg">
 > <img title="JavaScript" src="icons/javascript.svg">
 > <img title="Bootstrap" src="icons/bootstrap.svg">
-> <img title="PHP" src="icons/php.svg">
-> <img title="Laravel" src="icons/laravel.svg">
 > <img title="MySQL" src="icons/mysql.svg">
 > <img title="WordPress" src="icons/wordpress.svg">
 > <img title="Git" src="icons/git.svg">
@@ -24,9 +22,8 @@ Computer technician at IFRN - Campus Caicó, I love web development mainly front
 
 ## Talk to me
 
-- <a disabled href="https://victormedeiros1.github.io/portfolio/" target="_blank">Portfolio</a> (A more modern and updated version is in production).
+- <a href="https://victormedeiros1.github.io/portfolio/" target="_blank">Portfolio</a> (A more modern and updated version is in production).
 - <a href="https://www.linkedin.com/in/jos%C3%A9-victor-dev/" target="_blank">LinkedIn</a>
 - <a href="https://t.me/VictorMedeirosDev" target="_blank">Telegram</a>
 - <a href="https://www.instagram.com/victor_mdrss/" target="_blank">Instagram</a>
 - <a href="mailto:josevictordev@gmail.com?subject=Hello" target="_blank">Gmail</a>
-- <a href="https://stackoverflow.com/users/15435009/victor-medeiros" target="_blank">StackOverflow</a>
