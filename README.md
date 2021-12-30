@@ -22,7 +22,7 @@ Computer technician at IFRN - Campus Caicó, I love web development mainly front
 
 ## Talk to me
 
-- <a href="https://victormedeiros1.github.io/portfolio-v3/" target="_blank">Portfolio</a> (A more modern and updated version is in production).
+- <a href="https://victormedeiros1.github.io/portfolio-v3/" target="_blank">Portfolio</a>
 - <a href="https://www.linkedin.com/in/jos%C3%A9-victor-dev/" target="_blank">LinkedIn</a>
 - <a href="https://t.me/VictorMedeirosDev" target="_blank">Telegram</a>
 - <a href="https://www.instagram.com/victor_mdrss/" target="_blank">Instagram</a>
