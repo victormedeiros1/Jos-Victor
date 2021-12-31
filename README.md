@@ -14,7 +14,7 @@ Computer technician at IFRN - Campus Caicó, I love web development mainly front
 > <img title="CSS3" src="icons/css3.svg">
 > <img title="JavaScript" src="icons/javascript.svg">
 > <img title="Bootstrap" src="icons/bootstrap.svg">
-> <img title="React" src="icons/mysql.svg">
+> <img title="React" src="icons/react.svg">
 > <img title="Git" src="icons/git.svg" width="24px">
 > <img title="Figma" src="icons/figma.svg">
 
