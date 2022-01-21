@@ -1,4 +1,4 @@
-# Hi, I'm José Victor
+# Hi, I'm José Victor!
 Nice to meet you! I started programming in 2017 and graduated as a Computer Technician at the IFRN. I want to be a great developer and I am every day studying and striving more and more to become one.
 
 
