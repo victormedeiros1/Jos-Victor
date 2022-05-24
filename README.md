@@ -12,16 +12,17 @@ Nice to meet you! I started programming in 2017 and graduated as a Computer Tech
 
 ## Technology History
 
-> <img title="HTML5" src="./icons/html5.svg" width="24px">
-> <img title="CSS3" src="./icons/css3.svg" width="24px">
-> <img title="JavaScript" src="./icons/javascript.svg" width="24px">
-> <img title="Bootstrap" src="./icons/bootstrap.svg" width="24px">
-> <img title="React" src="./icons/react.svg" width="24px">
-> <img title="Vite" src="./icons/vite.svg" width="24px">
-> <img title="Git" src="./icons/git.svg" width="24px">
-> <img title="Figma" src="./icons/figma.svg" width="24px">
-> <img title="MaterialUI" src="./icons/material-ui.svg" width="24px">
-> <img title="Stiches" src="./icons/stitches.svg" width="24px">
+> <img title="HTML5" src="./icons/html5.svg" width="24px" height="24px">
+> <img title="CSS3" src="./icons/css3.svg" width="24px" height="24px">
+> <img title="JavaScript" src="./icons/javascript.svg" width="24px" height="24px">
+> <img title="Bootstrap" src="./icons/bootstrap.svg" width="24px" height="24px">
+> <img title="SASS" src="./icons/sass.svg" width="24px" height="24px">
+> <img title="React" src="./icons/react.svg" width="24px" height="24px">
+> <img title="Vite" src="./icons/vite.svg" width="24px" height="24px">
+> <img title="Git" src="./icons/git.svg" width="24px" height="24px">
+> <img title="Figma" src="./icons/figma.svg" width="24px" height="24px">
+> <img title="MaterialUI" src="./icons/material-ui.svg" width="24px" height="24px">
+> <img title="Stiches" src="./icons/stitches.svg" width="24px" height="24px">
 
 ## Talk to me
 
