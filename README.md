@@ -18,6 +18,8 @@ Nice to meet you! I started programming in 2017 and graduated as a Computer Tech
 > <img title="Bootstrap" src="./icons/bootstrap.svg" width="24px" height="24px">
 > <img title="SASS" src="./icons/sass.svg" width="24px" height="24px">
 > <img title="React" src="./icons/react.svg" width="24px" height="24px">
+> <img title="Vue" src="./icons/vue.svg" width="24px" height="24px">
+> <img title="Nuxt" src="./icons/nuxt.svg" width="24px" height="24px">
 > <img title="Vite" src="./icons/vite.svg" width="24px" height="24px">
 > <img title="Git" src="./icons/git.svg" width="24px" height="24px">
 > <img title="Figma" src="./icons/figma.svg" width="24px" height="24px">
@@ -28,6 +30,5 @@ Nice to meet you! I started programming in 2017 and graduated as a Computer Tech
 
 - <a href="https://www.josevictor.dev/" target="_blank">Portfolio</a>
 - <a href="https://www.linkedin.com/in/jos%C3%A9-victor-dev/" target="_blank">LinkedIn</a>
-- <a href="https://t.me/VictorMedeirosDev" target="_blank">Telegram</a>
 - <a href="https://www.instagram.com/victor_mdrss/" target="_blank">Instagram</a>
 - <a href="mailto:josevictordev@gmail.com?subject=Hello" target="_blank">Gmail</a>
